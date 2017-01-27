@@ -299,6 +299,10 @@
         },
         {
           "type": "file",
+          "path": "org.videolan.VLC.desktop"
+        },
+        {
+          "type": "file",
           "path": "codecs-Makefile",
           "dest-filename": "Makefile"
         }

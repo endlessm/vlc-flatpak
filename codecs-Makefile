@@ -8,3 +8,5 @@ install:
 	install vlc-lua53-compat.patch /app/src/vlc
 	cp /usr/bin/ar /app/bin
 	cp /usr/lib/libbfd-*.so /app/lib
+	mkdir -p /app/share/applications
+	install org.videolan.VLC.desktop /app/share/applications/
