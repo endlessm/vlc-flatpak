@@ -12,6 +12,7 @@
     "--socket=pulseaudio",
     "--share=network",
     "--filesystem=home",
+    "--filesystem=/run/media:ro",
     "--talk-name=org.mpris.MediaPlayer2.Player",
     "--own-name=org.mpris.MediaPlayer2.vlc",
     "--device=all",
