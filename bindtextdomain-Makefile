@@ -1,0 +1,7 @@
+all:
+	gcc -shared -fPIC bindtextdomain.c -o libbindtextdomain-wrapper.so
+
+install:
+	mkdir -p /app/lib
+	install -m 755 libbindtextdomain-wrapper.so /app/lib
+

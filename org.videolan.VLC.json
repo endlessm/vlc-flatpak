@@ -867,6 +867,21 @@
           "branch": "stable-1.1"
         }
       ]
+    },
+    {
+      "name": "bindtextdomain-wrapper",
+      "no-autogen": true,
+      "sources": [
+        {
+          "type": "file",
+          "path": "bindtextdomain.c"
+        },
+        {
+          "type": "file",
+          "path": "bindtextdomain-Makefile",
+          "dest-filename": "Makefile"
+        }
+      ]
     }
   ]
 }
