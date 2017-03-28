@@ -6,4 +6,4 @@ export LD_PRELOAD=/app/lib/libbindtextdomain-wrapper.so
 export LOCALEDIR=/app/extra/share/locale
 export TEXTDOMAIN=vlc
 
-exec /app/extra/bin/vlc
+exec /app/extra/bin/vlc "$@"
