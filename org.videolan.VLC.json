@@ -40,7 +40,7 @@
     "--extra-data=libshine3.deb:c4c0424db497df8f0ebbaa7947862436337a209924fdbfd7d8f898c21a5e569d:25534::http://ftp.us.debian.org/debian/pool/main/s/shine/libshine3_3.1.0-2.1_amd64.deb",
     "--extra-data=libfaad2.deb:27049f44cfb107b2f2d6f1fc24946550c32a2c247f76e67fef858f698f213d3c:178222::http://ftp.us.debian.org/debian/pool/main/f/faad2/libfaad2_2.7-8_amd64.deb",
     "--extra-data=librtmp1.deb:639377e8325a830c5c0607cd6ae06e4f909771b87c9d16cc5de389b29bd7fbec:59808::http://ftp.us.debian.org/debian/pool/main/r/rtmpdump/librtmp1_2.4+20150115.gita107cef-1_amd64.deb",
-    "--extra-data=libgnutls-deb0.deb:fbe15f6bdc0b8dfd03912a89be0f1171e1676778a7fc43c0989c7a3e1fad1800:694786::http://ftp.us.debian.org/debian/pool/main/g/gnutls28/libgnutls-deb0-28_3.3.8-6+deb8u4_amd64.deb",
+    "--extra-data=libgnutls-deb0.deb:8dc11b9e15df67457c8ff7c3bf73d1a31a38a88a1e6ba083acb651bebd907b7e:696320::http://ftp.us.debian.org/debian/pool/main/g/gnutls28/libgnutls-deb0-28_3.3.8-6+deb8u5_amd64.deb",
     "--extra-data=libsidplay2.deb:5f1be598213d61840e30a7a14635ce2997491ee67196514428a88620c97d3012:113066::http://ftp.us.debian.org/debian/pool/main/s/sidplay-libs/libsidplay2_2.1.1-14_amd64.deb",
     "--extra-data=libresid-builder0c2a.deb:a2291cf03537ff37bc4823f925c60028bf706b840f44513241b935570aaaf5b8:39762::http://ftp.us.debian.org/debian/pool/main/s/sidplay-libs/libresid-builder0c2a_2.1.1-14_amd64.deb",
     "--extra-data=libmpcdec6.deb:3cdbcb852df928f48b8820b1aea9aa2ddfce1cc522c96ff596d077487fb295b3:31260::http://ftp.us.debian.org/debian/pool/main/libm/libmpc/libmpcdec6_0.1~r459-4.1_amd64.deb",
@@ -49,11 +49,11 @@
     "--extra-data=libgroupsock1.deb:28c0389cac5c3189cb12a95949dffe84b020f35b1aebf1116ff34eef52530d3b:26318::http://ftp.us.debian.org/debian/pool/main/libl/liblivemedia/libgroupsock1_2014.01.13-1_amd64.deb",
     "--extra-data=libbasicusageenvironment0.deb:b557d596be0e064aeb5678e6ab269c7ede9fd0f5b23ac4e0d110dbcc4457739b:20542::http://ftp.us.debian.org/debian/pool/main/libl/liblivemedia/libbasicusageenvironment0_2014.01.13-1_amd64.deb",
     "--extra-data=libusageenvironment1.deb:dc583daabe815aac08a54d0d62e1a7d40ae1623d68f29ae153ea06c77b3d950c:11460::http://ftp.us.debian.org/debian/pool/main/libl/liblivemedia/libusageenvironment1_2014.01.13-1_amd64.deb",
-    "--extra-data=vlc-data.deb:ea1f614cf4fa80e722db8b2272dd50bfd3759db66fde33058d1b58a0d247240d:5991856::http://ftp.us.debian.org/debian/pool/main/v/vlc/vlc-data_2.2.4-1~deb8u1_all.deb",
-    "--extra-data=libvlccore8.deb:73cdda1f551662662d2b1fc65ecfae53007b0da0663ceabad70fce64c49f3f1c:391538::http://ftp.us.debian.org/debian/pool/main/v/vlc/libvlccore8_2.2.4-1~deb8u1_amd64.deb",
-    "--extra-data=libvlc5.deb:d4415c1e7d600bb45c3f9f42844a3f528ebfac8b0af06d0f646c3d39476d5c60:47300::http://ftp.us.debian.org/debian/pool/main/v/vlc/libvlc5_2.2.4-1~deb8u1_amd64.deb",
-    "--extra-data=vlc-nox.deb:56b0a9a2e3009515f1654a7fc960e528cbb78c054260c12addbd613fd13b9af9:2530574::http://ftp.us.debian.org/debian/pool/main/v/vlc/vlc-nox_2.2.4-1~deb8u1_amd64.deb",
-    "--extra-data=vlc.deb:8cfed56989b30bb65dcbe758eaa58b5f4d5b546e38a2068e042b526f1220541d:1501062::http://ftp.us.debian.org/debian/pool/main/v/vlc/vlc_2.2.4-1~deb8u1_amd64.deb"
+    "--extra-data=vlc-data.deb:a2a4ce9f2ce138c8d4cb2be64a3c5f251ee10dece30dd29edfbceaf9ce010c90:6025888::http://ftp.us.debian.org/debian/pool/main/v/vlc/vlc-data_2.2.5-1~deb8u1_all.deb",
+    "--extra-data=libvlccore8.deb:8b1f2ee3c9781902b4e9a1af61e83e5264318f31256fe08cde58dd83a13d7f87:392008::http://ftp.us.debian.org/debian/pool/main/v/vlc/libvlccore8_2.2.5-1~deb8u1_amd64.deb",
+    "--extra-data=libvlc5.deb:fa338b99f21dba9147c2a6fa0b9d40bf2be256444252432b70542445f633e18a:47380::http://ftp.us.debian.org/debian/pool/main/v/vlc/libvlc5_2.2.5-1~deb8u1_amd64.deb",
+    "--extra-data=vlc-nox.deb:2cbddccc4e23c61b57dd0a790a8b0490c7070e5e110339480037545285288081:2541226::http://ftp.us.debian.org/debian/pool/main/v/vlc/vlc-nox_2.2.5-1~deb8u1_amd64.deb",
+    "--extra-data=vlc.deb:59fe46a2544e67ce830d052a2f22249ecbdeca647383c105241d000bdceefd19:1503306::http://ftp.us.debian.org/debian/pool/main/v/vlc/vlc_2.2.5-1~deb8u1_amd64.deb"
   ],
   "modules": [
     {
