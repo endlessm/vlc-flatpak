@@ -17,7 +17,7 @@
     "--own-name=org.mpris.MediaPlayer2.vlc",
     "--device=all",
     "--env=LD_LIBRARY_PATH=/app/lib:/app/lib64:/app/lib/x86_64-linux-gnu:/app/extra/lib:/app/extra/lib/vlc:/app/extra/lib/x86_64-linux-gnu:/app/extra/lib/x86_64-linux-gnu/alsa-lib",
-    "--extra-data=libmp3lame0.deb:09d8a1e90eb088d9c87644a110c5577f59128e8a7314e8c4558f862e2fbe336c:352544::http://ftpFAKE.us.debian.org/debian/pool/main/l/lame/libmp3lame0_3.99.5+repack1-7+deb8u1_amd64.deb",
+    "--extra-data=libmp3lame0.deb:09d8a1e90eb088d9c87644a110c5577f59128e8a7314e8c4558f862e2fbe336c:352544::http://ftp.us.debian.org/debian/pool/main/l/lame/libmp3lame0_3.91.5+repack1-7+deb8u1_amd64.deb",
     "--extra-data=libtwolame0.deb:f94149d669b4f80580944dff3f6d798d709070bfb753dafb7ab9be466753c8a7:51688::http://ftp.us.debian.org/debian/pool/main/t/twolame/libtwolame0_0.3.13-1.1_amd64.deb",
     "--extra-data=libmpeg2-4.deb:8f076c8a95f0257e85371926fbbc431af4e78908109bc8824eb0d3c8afcf17b5:63290::http://ftp.us.debian.org/debian/pool/main/m/mpeg2dec/libmpeg2-4_0.5.1-7_amd64.deb",
     "--extra-data=liba52.deb:36f9d936e36f07e57c994f911c7890bc02ccb62507a2e90210b6e3870f34c2d8:35050::http://ftp.us.debian.org/debian/pool/main/a/a52dec/liba52-0.7.4_0.7.4-17_amd64.deb",
