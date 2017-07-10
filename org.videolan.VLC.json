@@ -433,7 +433,7 @@
       "sources": [
         {
           "type": "archive",
-          "url": "http://directfb.net/downloads/Core/DirectFB-1.2/DirectFB-1.2.10.tar.gz",
+          "url": "http://ftp.us.debian.org/debian/pool/main/d/directfb/directfb_1.2.10.0.orig.tar.gz",
           "sha256": "0690376be3ee1dbc78ffe29b231f4c8410946e7a2a6dfa15989908b87adfc3be"
         }
       ]
