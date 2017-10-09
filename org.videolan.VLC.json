@@ -40,7 +40,7 @@
     "--extra-data=libshine3.deb:c4c0424db497df8f0ebbaa7947862436337a209924fdbfd7d8f898c21a5e569d:25534::http://ftp.us.debian.org/debian/pool/main/s/shine/libshine3_3.1.0-2.1_amd64.deb",
     "--extra-data=libfaad2.deb:27049f44cfb107b2f2d6f1fc24946550c32a2c247f76e67fef858f698f213d3c:178222::http://ftp.us.debian.org/debian/pool/main/f/faad2/libfaad2_2.7-8_amd64.deb",
     "--extra-data=librtmp1.deb:b2163afcdbe2734a637f913dcd55b305e84753a9572a2292b453d693e81f0cd0:60350::http://ftp.us.debian.org/debian/pool/main/r/rtmpdump/librtmp1_2.4+20151223.gitfa8646d.1-1+b1_amd64.deb",
-    "--extra-data=libgnutls30.deb:5b9b178dfe2368f2f1bd86e801e797487fa05dfc5a7e58e4c0d3a690f8be27b8:895306::http://ftp.us.debian.org/debian/pool/main/g/gnutls28/libgnutls30_3.5.8-5+deb9u2_amd64.deb",
+    "--extra-data=libgnutls30.deb:2c014e7323ab4ce6baf45fd2adf218f79e3e423dc68cf34ba875b7d23d2b29c4:895094::http://ftp.us.debian.org/debian/pool/main/g/gnutls28/libgnutls30_3.5.8-5+deb9u3_amd64.deb",
     "--extra-data=libsidplay2.deb:5f1be598213d61840e30a7a14635ce2997491ee67196514428a88620c97d3012:113066::http://ftp.us.debian.org/debian/pool/main/s/sidplay-libs/libsidplay2_2.1.1-14_amd64.deb",
     "--extra-data=libresid-builder0c2a.deb:a2291cf03537ff37bc4823f925c60028bf706b840f44513241b935570aaaf5b8:39762::http://ftp.us.debian.org/debian/pool/main/s/sidplay-libs/libresid-builder0c2a_2.1.1-14_amd64.deb",
     "--extra-data=libmpcdec6.deb:3cdbcb852df928f48b8820b1aea9aa2ddfce1cc522c96ff596d077487fb295b3:31260::http://ftp.us.debian.org/debian/pool/main/libm/libmpc/libmpcdec6_0.1~r459-4.1_amd64.deb",
