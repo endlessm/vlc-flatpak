@@ -419,8 +419,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://netix.dl.sourceforge.net/project/libpng/libpng16/1.6.32/libpng-1.6.32.tar.xz",
-          "sha256": "c918c3113de74a692f0a1526ce881dc26067763eb3915c57ef3a0f7b6886f59b"
+          "url": "https://kent.dl.sourceforge.net/project/libpng/libpng12/older-releases/1.2.56/libpng-1.2.56.tar.xz",
+          "sha256": "24ce54581468b937734a6ecc86f7e121bc46a90d76a0d948dca08f32ee000dbe"
         }
       ]
     },
