@@ -24,11 +24,11 @@
     "--extra-data=libdca0.deb:6175453be15dc12d95b6a0fec4a96a708dbe73e7930ccc754333c44b7d073fb9:98070::http://ftp.us.debian.org/debian/pool/main/libd/libdca/libdca0_0.0.5-7_amd64.deb",
     "--extra-data=libxvidcore4.deb:91171c49bf7db84356f8a0e2662d572a7a86d89147e531d01945d03d69d573f4:282256::http://ftp.us.debian.org/debian/pool/main/x/xvidcore/libxvidcore4_1.3.3-1_amd64.deb",
     "--extra-data=libpostproc52.deb:e7efbb917bca008ee754f5f9a0557f9c4124e4435a762cc283fa7c6285e4235b:26598::http://ftp.us.debian.org/debian/pool/main/libp/libpostproc/libpostproc52_0.git20120821-4_amd64.deb",
-    "--extra-data=libavutil55.deb:5771691fa5038150d090307dfd620b9751bdb57c44637395acd986cad9413150:215008::http://security.debian.org/debian-security/pool/updates/main/f/ffmpeg/libavutil55_3.2.8-1~deb9u1_amd64.deb",
-    "--extra-data=libavresample3.deb:f9379c0dfc27ecbe68cbcfd4d54555a3f9df1bbfc59c7af3e4157f774c769e56:92010::http://security.debian.org/debian-security/pool/updates/main/f/ffmpeg/libavresample3_3.2.8-1~deb9u1_amd64.deb",
-    "--extra-data=libavcodec57.deb:d2d16d49118ad34c2f220f8533f128bbb1329dca76ce71cd5a337fbe77df935b:4443668::http://security.debian.org/debian-security/pool/updates/main/f/ffmpeg/libavcodec57_3.2.8-1~deb9u1_amd64.deb",
+    "--extra-data=libavutil55.deb:792d870787d8cb0970afd1f6150ee7f1f83419567d393a9c663475e31f138f6f:215370::http://security.debian.org/debian-security/pool/updates/main/f/ffmpeg/libavutil55_3.2.9-1~deb9u1_amd64.deb",
+    "--extra-data=libavresample3.deb:ea7ae72beab58d9af2ce6fb34a279727446708dadf08064174b15e2377824e20:92442::http://security.debian.org/debian-security/pool/updates/main/f/ffmpeg/libavresample3_3.2.9-1~deb9u1_amd64.deb",
+    "--extra-data=libavcodec57.deb:86bfb0daa2f3ffd61459f38800eb21964216e5df8c861485f2a1f707ad7fd1e7:4444496::http://security.debian.org/debian-security/pool/updates/main/f/ffmpeg/libavcodec57_3.2.9-1~deb9u1_amd64.deb",
     "--extra-data=libavcodec-extra-56.deb:bc827886f9c004666a234587e2d1d768c4e67757bf87f741947c0fe7c7a0da1e:3111010::http://security.debian.org/debian-security/pool/updates/main/liba/libav/libavcodec-extra-56_11.11-1~deb8u1_amd64.deb",
-    "--extra-data=libavformat57.deb:dc8018446923edb336d8ab783272a656d548d94c6c3f93f05cfda47992731f97:934874::http://security.debian.org/debian-security/pool/updates/main/f/ffmpeg/libavformat57_3.2.8-1~deb9u1_amd64.deb",
+    "--extra-data=libavformat57.deb:1a5584b19b64fcfc4c9f387a86e692d2a9f84791bd512fa5cb05ad50afe042a8:935612::http://security.debian.org/debian-security/pool/updates/main/f/ffmpeg/libavformat57_3.2.9-1~deb9u1_amd64.deb",
     "--extra-data=libswscale3.deb:b0e8a2c6bdede4972af6ea12c81f889a2ab5d1de40170e02aaf1f73df297d7a7:143054::http://security.debian.org/debian-security/pool/updates/main/liba/libav/libswscale3_11.11-1~deb8u1_amd64.deb",
     "--extra-data=libx264-142.deb:8425f36e01b971773bfc3307631b0d171016aa731baa0d865cf30653977aed28:586596::http://ftp.us.debian.org/debian/pool/main/x/x264/libx264-142_0.142.2431+gita5831aa-1+b2_amd64.deb",
     "--extra-data=libasound-plugins.deb:58542ca8e2f498888249e10fb50300da5b2533959d881a8d2881b60f6f8b9fa5:71736::http://ftp.us.debian.org/debian/pool/main/a/alsa-plugins/libasound2-plugins_1.0.28-1+b1_amd64.deb",
@@ -672,8 +672,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://www.fribidi.org/download/fribidi-0.19.7.tar.bz2",
-          "sha256": "08222a6212bbc2276a2d55c3bf370109ae4a35b689acbc66571ad2a670595a8e"
+          "url": "https://github.com/fribidi/fribidi/archive/0.19.7.tar.gz",
+          "sha256": "3fc96fa9473bd31dcb5500bdf1aa78b337ba13eb8c301e7c28923fea982453a8"
         }
       ]
     },
