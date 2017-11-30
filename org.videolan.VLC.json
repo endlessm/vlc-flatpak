@@ -669,6 +669,7 @@
     },
     {
       "name": "fribidi",
+      "no-parallel-make": true,
       "sources": [
         {
           "type": "archive",
