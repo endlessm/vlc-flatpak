@@ -49,11 +49,11 @@
     "--extra-data=libgroupsock1.deb:28c0389cac5c3189cb12a95949dffe84b020f35b1aebf1116ff34eef52530d3b:26318::http://ftp.us.debian.org/debian/pool/main/libl/liblivemedia/libgroupsock1_2014.01.13-1_amd64.deb",
     "--extra-data=libbasicusageenvironment0.deb:b557d596be0e064aeb5678e6ab269c7ede9fd0f5b23ac4e0d110dbcc4457739b:20542::http://ftp.us.debian.org/debian/pool/main/libl/liblivemedia/libbasicusageenvironment0_2014.01.13-1_amd64.deb",
     "--extra-data=libusageenvironment1.deb:dc583daabe815aac08a54d0d62e1a7d40ae1623d68f29ae153ea06c77b3d950c:11460::http://ftp.us.debian.org/debian/pool/main/libl/liblivemedia/libusageenvironment1_2014.01.13-1_amd64.deb",
-    "--extra-data=vlc-data.deb:ee839f2b1259de5a16ff2300603ff28cc7106935691a76829f609a117ab48d14:433766::http://ftp.us.debian.org/debian/pool/main/v/vlc/vlc-data_2.2.7-1~deb9u1_all.deb",
-    "--extra-data=libvlccore8.deb:1cd48fc35820e5177399481e8acf169bae097c0aeeea0c43eb621387a8d72ea0:505728::http://ftp.us.debian.org/debian/pool/main/v/vlc/libvlccore8_2.2.7-1~deb9u1_amd64.deb",
-    "--extra-data=libvlc5.deb:1638cd6e22dd304c1a12ea89b2ee2a8a02af15307dd9aa6c7f8d025014140ce8:164520::http://ftp.us.debian.org/debian/pool/main/v/vlc/libvlc5_2.2.7-1~deb9u1_amd64.deb",
-    "--extra-data=vlc-nox.deb:c936dc07b429bcc1f4323a176cfce21b09000323fce71dccbad326293d2d1436:118890::http://ftp.us.debian.org/debian/pool/main/v/vlc/vlc-nox_2.2.7-1~deb9u1_amd64.deb",
-    "--extra-data=vlc.deb:25656253a07992aef7d233e30fa33f99afda333ffc131fa0c0e6ab009622aca8:135522::http://ftp.us.debian.org/debian/pool/main/v/vlc/vlc_2.2.7-1~deb9u1_amd64.deb"
+    "--extra-data=vlc-data.deb:34e8648dfb9d006330712d0ced1c695835472fb3ac62734fc511662d4cc03de1:5905918::http://ftp.us.debian.org/debian/pool/main/v/vlc/vlc-data_2.2.7-1~deb8u1_all.deb",
+    "--extra-data=libvlccore8.deb:9ac96f8093d2c0f424b58b86339fb817b8a3d6c0c94d14dd272b656de7d9a6ff:391800::http://ftp.us.debian.org/debian/pool/main/v/vlc/libvlccore8_2.2.7-1~deb8u1_amd64.deb",
+    "--extra-data=libvlc5.deb:c3fc85ed20dc0c785cd585dd5a344bc9e796cc24a0c464215b054ebd2fd451c7:47384::http://ftp.us.debian.org/debian/pool/main/v/vlc/libvlc5_2.2.7-1~deb8u1_amd64.deb",
+    "--extra-data=vlc-nox.deb:4201cb7c5d8f94861939af7429229d90c60b97b2ecfb8b962aad144f89f10895:2529216::http://ftp.us.debian.org/debian/pool/main/v/vlc/vlc-nox_2.2.7-1~deb8u1_amd64.deb",
+    "--extra-data=vlc.deb:82b9878b57eff89dbda5e06ea3465c7eddddbf04c7360d2c56438e54e6a78b89:1503036::http://ftp.us.debian.org/debian/pool/main/v/vlc/vlc_2.2.7-1~deb8u1_amd64.deb"
   ],
   "modules": [
     {
