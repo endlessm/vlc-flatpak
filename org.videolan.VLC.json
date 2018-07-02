@@ -506,7 +506,7 @@
             "type": "debian-repo",
             "package-name": "libdvdcss2",
             "root": "http://download.videolan.org/debian/stable",
-            "component": "stable"
+            "dist": "stable/"
           }
         },
         {
