@@ -276,7 +276,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/l/lame/libmp3lame0_3.99.5+repack1-7+deb8u2_amd64.deb",
           "sha256": "f7929a0eaaf7f10f56ddb30c49d4628cd1848d027056ef687405493ec36fe891",
-          "size": "351936",
+          "size": 351936,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libmp3lame0",
@@ -291,7 +291,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/t/twolame/libtwolame0_0.3.13-1.1_amd64.deb",
           "sha256": "f94149d669b4f80580944dff3f6d798d709070bfb753dafb7ab9be466753c8a7",
-          "size": "51688",
+          "size": 51688,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libtwolame0",
@@ -306,7 +306,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/m/mpeg2dec/libmpeg2-4_0.5.1-7_amd64.deb",
           "sha256": "8f076c8a95f0257e85371926fbbc431af4e78908109bc8824eb0d3c8afcf17b5",
-          "size": "63290",
+          "size": 63290,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libmpeg2-4",
@@ -321,7 +321,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/a/a52dec/liba52-0.7.4_0.7.4-17_amd64.deb",
           "sha256": "36f9d936e36f07e57c994f911c7890bc02ccb62507a2e90210b6e3870f34c2d8",
-          "size": "35050",
+          "size": 35050,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "liba52",
@@ -336,7 +336,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/libd/libdca/libdca0_0.0.5-7_amd64.deb",
           "sha256": "6175453be15dc12d95b6a0fec4a96a708dbe73e7930ccc754333c44b7d073fb9",
-          "size": "98070",
+          "size": 98070,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libdca0",
@@ -351,7 +351,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/x/xvidcore/libxvidcore4_1.3.3-1_amd64.deb",
           "sha256": "91171c49bf7db84356f8a0e2662d572a7a86d89147e531d01945d03d69d573f4",
-          "size": "282256",
+          "size": 282256,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libxvidcore4",
@@ -366,7 +366,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/libp/libpostproc/libpostproc52_0.git20120821-4_amd64.deb",
           "sha256": "e7efbb917bca008ee754f5f9a0557f9c4124e4435a762cc283fa7c6285e4235b",
-          "size": "26598",
+          "size": 26598,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libpostproc52",
@@ -381,7 +381,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://security.debian.org/debian-security/pool/updates/main/f/ffmpeg/libavutil55_3.2.10-1~deb9u1_amd64.deb",
           "sha256": "b1bb527414348efafa506e73ae7991771c5d4c18de01e4d95ca9f264410acb7a",
-          "size": "216696",
+          "size": 216696,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libavutil55",
@@ -396,7 +396,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://security.debian.org/debian-security/pool/updates/main/f/ffmpeg/libavresample3_3.2.10-1~deb9u1_amd64.deb",
           "sha256": "743a6c4b0700a89db1440809764aaa393e59d36ecd2fa78d774f7a8c38446246",
-          "size": "93900",
+          "size": 93900,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libavresample3",
@@ -411,7 +411,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://security.debian.org/debian-security/pool/updates/main/f/ffmpeg/libavcodec57_3.2.10-1~deb9u1_amd64.deb",
           "sha256": "c067e6d37dd0159c1ed6fc45bf5099c2dff341176308c1eeb9f8b093228b3236",
-          "size": "4445028",
+          "size": 4445028,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libavcodec57",
@@ -426,7 +426,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://security.debian.org/debian-security/pool/updates/main/liba/libav/libavcodec-extra-56_11.12-1~deb8u1_amd64.deb",
           "sha256": "defc3b30a1090249cade8293e0da9f5bb7de3b417b36046af3fdd114bf5e6325",
-          "size": "3109658",
+          "size": 3109658,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libavcodec-extra-56",
@@ -441,7 +441,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://security.debian.org/debian-security/pool/updates/main/f/ffmpeg/libavformat57_3.2.10-1~deb9u1_amd64.deb",
           "sha256": "bbd92c11fd7839f14e6a8489361b0bfa865d617d235db420df6ff91fea16676c",
-          "size": "936772",
+          "size": 936772,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libavformat57",
@@ -456,7 +456,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://security.debian.org/debian-security/pool/updates/main/liba/libav/libswscale3_11.12-1~deb8u1_amd64.deb",
           "sha256": "503e6349d62e9e7e521102592e7d9aecc058ea3a4f44c3d9cf8a012c06376858",
-          "size": "142908",
+          "size": 142908,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libswscale3",
@@ -471,7 +471,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/x/x264/libx264-142_0.142.2431+gita5831aa-1+b2_amd64.deb",
           "sha256": "8425f36e01b971773bfc3307631b0d171016aa731baa0d865cf30653977aed28",
-          "size": "586596",
+          "size": 586596,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libx264-142",
@@ -486,7 +486,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/a/alsa-plugins/libasound2-plugins_1.0.28-1+b1_amd64.deb",
           "sha256": "58542ca8e2f498888249e10fb50300da5b2533959d881a8d2881b60f6f8b9fa5",
-          "size": "71736",
+          "size": 71736,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libasound-plugins",
@@ -501,7 +501,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://download.videolan.org/debian/stable/libdvdcss2_1.2.13-0_amd64.deb",
           "sha256": "3f856252ef91333f9212e3ae1ee6018d560ef31dd2853902a6979adcc2a06a24",
-          "size": "44462",
+          "size": 44462,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libdvdcss2",
@@ -515,7 +515,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/v/vo-aacenc/libvo-aacenc0_0.1.3-1_amd64.deb",
           "sha256": "ef7333df21551235db58182cebf57c132f1eca8284e291c2588449c7208bc2c0",
-          "size": "62582",
+          "size": 62582,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libvo-aacenc0",
@@ -530,7 +530,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/v/vo-amrwbenc/libvo-amrwbenc0_0.1.3-1_amd64.deb",
           "sha256": "a5fa02740969c580fcbc06bed0f781aef6890e7120f1903779a5f9b06f14ce65",
-          "size": "59356",
+          "size": 59356,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libvo-amrwbenc0",
@@ -545,7 +545,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/o/opencore-amr/libopencore-amrnb0_0.1.3-2.1_amd64.deb",
           "sha256": "378a1876e2441cd13cedfce79bfd5aaad9f19e054773ee1e97bd886426b5247d",
-          "size": "92352",
+          "size": 92352,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libopencore-amrnb0",
@@ -560,7 +560,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/o/opencore-amr/libopencore-amrwb0_0.1.3-2.1_amd64.deb",
           "sha256": "f937bc1d351db9ba6289b4328c760495b0b3cfa97d83c33cd7ccc0c98baf785c",
-          "size": "46190",
+          "size": 46190,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libopencore-amrwb0",
@@ -575,7 +575,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/s/shine/libshine3_3.1.0-2.1_amd64.deb",
           "sha256": "c4c0424db497df8f0ebbaa7947862436337a209924fdbfd7d8f898c21a5e569d",
-          "size": "25534",
+          "size": 25534,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libshine3",
@@ -590,7 +590,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/f/faad2/libfaad2_2.7-8_amd64.deb",
           "sha256": "27049f44cfb107b2f2d6f1fc24946550c32a2c247f76e67fef858f698f213d3c",
-          "size": "178222",
+          "size": 178222,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libfaad2",
@@ -605,7 +605,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/r/rtmpdump/librtmp1_2.4+20151223.gitfa8646d.1-1+b1_amd64.deb",
           "sha256": "b2163afcdbe2734a637f913dcd55b305e84753a9572a2292b453d693e81f0cd0",
-          "size": "60350",
+          "size": 60350,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "librtmp1",
@@ -620,7 +620,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/g/gnutls28/libgnutls30_3.5.8-5+deb9u3_amd64.deb",
           "sha256": "2c014e7323ab4ce6baf45fd2adf218f79e3e423dc68cf34ba875b7d23d2b29c4",
-          "size": "895094",
+          "size": 895094,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libgnutls30",
@@ -635,7 +635,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/s/sidplay-libs/libsidplay2_2.1.1-14_amd64.deb",
           "sha256": "5f1be598213d61840e30a7a14635ce2997491ee67196514428a88620c97d3012",
-          "size": "113066",
+          "size": 113066,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libsidplay2",
@@ -650,7 +650,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/s/sidplay-libs/libresid-builder0c2a_2.1.1-14_amd64.deb",
           "sha256": "a2291cf03537ff37bc4823f925c60028bf706b840f44513241b935570aaaf5b8",
-          "size": "39762",
+          "size": 39762,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libresid-builder0c2a",
@@ -665,7 +665,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/libm/libmpc/libmpcdec6_0.1~r459-4.1_amd64.deb",
           "sha256": "3cdbcb852df928f48b8820b1aea9aa2ddfce1cc522c96ff596d077487fb295b3",
-          "size": "31260",
+          "size": 31260,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libmpcdec6",
@@ -680,7 +680,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/v/vcdimager/libvcdinfo0_0.7.24+dfsg-0.2_amd64.deb",
           "sha256": "94dc9f262049d5d7aa4af573c2fb46f76616f9fd921000480fccea27bb4f1588",
-          "size": "123274",
+          "size": 123274,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libvcdinfo0",
@@ -695,7 +695,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/libl/liblivemedia/liblivemedia23_2014.01.13-1_amd64.deb",
           "sha256": "e06a95ce762622956cfd4586344a896a6a3547d75bf5aa2c4bdd06052ab467c8",
-          "size": "277990",
+          "size": 277990,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "liblivemedia23",
@@ -710,7 +710,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/libl/liblivemedia/libgroupsock1_2014.01.13-1_amd64.deb",
           "sha256": "28c0389cac5c3189cb12a95949dffe84b020f35b1aebf1116ff34eef52530d3b",
-          "size": "26318",
+          "size": 26318,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libgroupsock1",
@@ -725,7 +725,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/libl/liblivemedia/libbasicusageenvironment0_2014.01.13-1_amd64.deb",
           "sha256": "b557d596be0e064aeb5678e6ab269c7ede9fd0f5b23ac4e0d110dbcc4457739b",
-          "size": "20542",
+          "size": 20542,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libbasicusageenvironment0",
@@ -740,7 +740,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/libl/liblivemedia/libusageenvironment1_2014.01.13-1_amd64.deb",
           "sha256": "dc583daabe815aac08a54d0d62e1a7d40ae1623d68f29ae153ea06c77b3d950c",
-          "size": "11460",
+          "size": 11460,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libusageenvironment1",
@@ -755,7 +755,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/v/vlc/vlc-data_2.2.7-1~deb8u1_all.deb",
           "sha256": "34e8648dfb9d006330712d0ced1c695835472fb3ac62734fc511662d4cc03de1",
-          "size": "5905918",
+          "size": 5905918,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "vlc-data",
@@ -770,7 +770,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/v/vlc/libvlccore8_2.2.7-1~deb8u1_amd64.deb",
           "sha256": "9ac96f8093d2c0f424b58b86339fb817b8a3d6c0c94d14dd272b656de7d9a6ff",
-          "size": "391800",
+          "size": 391800,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libvlccore8",
@@ -785,7 +785,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/v/vlc/libvlc5_2.2.7-1~deb8u1_amd64.deb",
           "sha256": "c3fc85ed20dc0c785cd585dd5a344bc9e796cc24a0c464215b054ebd2fd451c7",
-          "size": "47384",
+          "size": 47384,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libvlc5",
@@ -800,7 +800,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/v/vlc/vlc-nox_2.2.7-1~deb8u1_amd64.deb",
           "sha256": "4201cb7c5d8f94861939af7429229d90c60b97b2ecfb8b962aad144f89f10895",
-          "size": "2529216",
+          "size": 2529216,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "vlc-nox",
@@ -815,7 +815,7 @@
           "only-arches": [ "x86_64" ],
           "url": "http://deb.debian.org/debian/pool/main/v/vlc/vlc_2.2.7-1~deb8u1_amd64.deb",
           "sha256": "82b9878b57eff89dbda5e06ea3465c7eddddbf04c7360d2c56438e54e6a78b89",
-          "size": "1503036",
+          "size": 1503036,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "vlc",
