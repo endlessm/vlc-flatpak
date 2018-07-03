@@ -3,7 +3,6 @@
   "runtime": "com.endlessm.Platform",
   "runtime-version": "eos3.2",
   "sdk": "com.endlessm.Sdk",
-  "branch": "2.2.6",
   "command": "vlc",
   "separate-locales": false,
   "finish-args": [
