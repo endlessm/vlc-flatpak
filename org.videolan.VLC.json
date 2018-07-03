@@ -506,7 +506,7 @@
             "type": "debian-repo",
             "package-name": "libdvdcss2",
             "root": "http://download.videolan.org/debian/stable",
-            "component": "stable"
+            "dist": "stable/"
           }
         },
         {
@@ -588,9 +588,9 @@
           "type": "extra-data",
           "filename": "libfaad2.deb",
           "only-arches": [ "x86_64" ],
-          "url": "http://deb.debian.org/debian/pool/main/f/faad2/libfaad2_2.7-8_amd64.deb",
-          "sha256": "27049f44cfb107b2f2d6f1fc24946550c32a2c247f76e67fef858f698f213d3c",
-          "size": 178222,
+          "url": "http://deb.debian.org/debian/pool/main/f/faad2/libfaad2_2.7-8+deb8u1_amd64.deb",
+          "sha256": "33ab540ddbdcc0ec1b77cf14502994297fadffeabd346eb2574351f2e1e65f85",
+          "size": 146230,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "libfaad2",
@@ -603,9 +603,9 @@
           "type": "extra-data",
           "filename": "librtmp1.deb",
           "only-arches": [ "x86_64" ],
-          "url": "http://deb.debian.org/debian/pool/main/r/rtmpdump/librtmp1_2.4+20151223.gitfa8646d.1-1+b1_amd64.deb",
-          "sha256": "b2163afcdbe2734a637f913dcd55b305e84753a9572a2292b453d693e81f0cd0",
-          "size": 60350,
+          "url": "http://deb.debian.org/debian/pool/main/r/rtmpdump/librtmp1_2.4+20150115.gita107cef-1+deb8u1_amd64.deb",
+          "sha256": "65eb322c80ec08598dfb5cfa47ab59a742d66b440ef3aeea0f1100876aec05f5",
+          "size": 60020,
           "x-checker-data": {
             "type": "debian-repo",
             "package-name": "librtmp1",
